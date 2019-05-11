@@ -1,0 +1,3 @@
+So basically pandas allows you to load data from different sources into python and then use python code
+to analyze those data and produce results which can be in the form of tables, text, and also visualization
+with the help of visualization libraries such as a Bokeh, Bokeh which is covered later in the course.
