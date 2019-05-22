@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tkinter", "Tkinter\Tkinter.pyproj", "{DAF2F9AF-3256-4E18-917E-CC67E738C329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF2F9AF-3256-4E18-917E-CC67E738C329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF2F9AF-3256-4E18-917E-CC67E738C329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81B4DBE-B2BA-4A8D-8975-56946DB9866F}
+	EndGlobalSection
+EndGlobal
